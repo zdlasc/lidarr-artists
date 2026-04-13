@@ -1,5 +1,4 @@
 Artist
-"""Pause"""
 &ME
 ...At Random
 0.8syooogeki
